@@ -63,12 +63,3 @@ expense_tracker.py  # Main Python script
 README.md           # Project documentation
 ```
 
----
-
-Would you like me to help you:
-- Add data persistence (e.g., save to a file)?
-- Turn this into a GUI or web app?
-- Package it for command-line use with `argparse`?
-
-Let me know how you'd like to evolve it!
-```
